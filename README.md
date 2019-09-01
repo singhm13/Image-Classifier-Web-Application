@@ -1,5 +1,5 @@
 # Image Classifier Web Application
-A web application that classifies images using models created by machine learning.
+A web application that classifies images using machine learning models.
 
 ![Demo](https://github.com/singhm13/Image-Classifier-Web-Application/blob/master/Demo/Dog%20Breed%20Classification.gif)
 
