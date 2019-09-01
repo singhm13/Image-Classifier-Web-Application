@@ -1,8 +1,7 @@
-## Demo
-![Demo](https://github.com/singhm13/Image-Classifier-Web-Application/blob/master/Demo/Dog%20Breed%20Classification.gif)
-
 # Image Classifier Web Application
 A web application that classifies images using models created by machine learning.
+
+![Demo](https://github.com/singhm13/Image-Classifier-Web-Application/blob/master/Demo/Dog%20Breed%20Classification.gif)
 
 ## Instructions
 1. Download the three files (index.html, index.js, styles.css) and ensure they are stored together in one folder.
